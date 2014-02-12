@@ -1,5 +1,7 @@
 require "first_gem_libby/version"
 
-module FirstGemLibby
-  # Your code goes here...
+class String
+  def word_count
+    self.split.count
+  end
 end
