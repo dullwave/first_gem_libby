@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = FirstGemLibby::VERSION
   spec.authors       = ["Elisabeth Waltz"]
   spec.email         = ["elisabeth.waltz@gmail.com"]
-  spec.summary       = ["thingy"]
-  spec.description   = ["thing"]
+  spec.summary       = %q{My first gem. Doesn't do much}
+  spec.description   = %q{My first gem. Doesn't do much}
   spec.homepage      = ""
   spec.license       = "MIT"
 
