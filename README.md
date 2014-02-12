@@ -1,29 +1,3 @@
-# FirstGemLibby
+some thingies
 
-TODO: Write a gem description
-
-## Installation
-
-Add this line to your application's Gemfile:
-
-    gem 'first_gem_libby'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install first_gem_libby
-
-## Usage
-
-TODO: Write usage instructions here
-
-## Contributing
-
-1. Fork it ( http://github.com/<my-github-username>/first_gem_libby/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+[![Code Climate](https://codeclimate.com/repos/52fbaf826956805f68003b53/badges/33b84a48c9ce3b7a5ad9/gpa.png)](https://codeclimate.com/repos/52fbaf826956805f68003b53/feed)
